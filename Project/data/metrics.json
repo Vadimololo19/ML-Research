@@ -1,0 +1,482 @@
+{
+  "cpp": {
+    "lgbm": [
+      {
+        "language": "cpp",
+        "metrics": {
+          "accuracy": 0.04270000010728836,
+          "f1_macro": 0.08190274983644485,
+          "precision_macro": 0.04270000010728836,
+          "recall_macro": 1.0,
+          "roc_auc": null
+        },
+        "model": "lgbm",
+        "timestamp": 1766317256,
+        "training_time_sec": 0.000764545
+      }
+    ],
+    "mlp": [
+      {
+        "language": "cpp",
+        "metrics": {
+          "accuracy": 0.9139999747276306,
+          "f1_macro": 0.3786127269268036,
+          "precision_macro": 0.2737722098827362,
+          "recall_macro": 0.6135831475257874,
+          "roc_auc": null
+        },
+        "model": "mlp",
+        "stage": "train",
+        "timestamp": 1766327519,
+        "training_time_sec": 0.444125177
+      }
+    ],
+    "rf": [
+      {
+        "language": "cpp",
+        "metrics": {
+          "accuracy": 0.04280000180006027,
+          "f1_macro": 0.08191061019897461,
+          "precision_macro": 0.0427042692899704,
+          "recall_macro": 1.0,
+          "roc_auc": null
+        },
+        "model": "rf",
+        "stage": "train",
+        "timestamp": 1766327409,
+        "training_time_sec": 0.002318107
+      }
+    ],
+    "svm": [
+      {
+        "language": "cpp",
+        "metrics": {
+          "accuracy": 0.7990999817848206,
+          "f1_macro": 0.23930329084396362,
+          "precision_macro": 0.14272809028625488,
+          "recall_macro": 0.7400468587875366,
+          "roc_auc": null
+        },
+        "model": "svm",
+        "stage": "train",
+        "timestamp": 1766327467,
+        "training_time_sec": 0.175701983
+      }
+    ],
+    "xgb": [
+      {
+        "language": "cpp",
+        "metrics": {
+          "accuracy": 0.04270000010728836,
+          "f1_macro": 0.08190274983644485,
+          "precision_macro": 0.04270000010728836,
+          "recall_macro": 1.0,
+          "roc_auc": null
+        },
+        "model": "xgb",
+        "timestamp": 1766317119,
+        "training_time_sec": 0.000751008
+      }
+    ]
+  },
+  "python": {
+    "lgbm": [
+      {
+        "data_path": "../data/NF-UNSW-NB15-v2.csv",
+        "language": "python",
+        "metrics": {
+          "accuracy": 1.0,
+          "f1_macro": 1.0,
+          "f1_weighted": 1.0,
+          "precision_macro": 1.0,
+          "precision_weighted": 1.0,
+          "recall_macro": 1.0,
+          "recall_weighted": 1.0,
+          "roc_auc": 1.0
+        },
+        "model": "lgbm",
+        "sample_size_used": 50000,
+        "test_size": 10000,
+        "timestamp": "2025-12-21 12:08:53",
+        "train_size": 40000,
+        "training_time_sec": 0.70046067237854
+      },
+      {
+        "attacks_detected": 200,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 27.01,
+          "mean": 12.6,
+          "min": 6.44,
+          "total_ms": 2519.64
+        },
+        "language": "python",
+        "model": "lgbm",
+        "port": 5003,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:10:47"
+      },
+      {
+        "attacks_detected": 200,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 27.01,
+          "mean": 12.6,
+          "min": 6.44,
+          "total_ms": 2519.64
+        },
+        "language": "python",
+        "model": "lgbm",
+        "port": 5003,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:10:47"
+      }
+    ],
+    "mlp": [
+      {
+        "data_path": "../data/NF-UNSW-NB15-v2.csv",
+        "language": "python",
+        "metrics": {
+          "accuracy": 0.9993,
+          "f1_macro": 0.9953930149814545,
+          "f1_weighted": 0.9992978787137483,
+          "precision_macro": 0.99841546306751,
+          "precision_weighted": 0.9992990400076703,
+          "recall_macro": 0.9924102390728899,
+          "recall_weighted": 0.9993,
+          "roc_auc": 0.9950478805190293
+        },
+        "model": "mlp",
+        "sample_size_used": 50000,
+        "test_size": 10000,
+        "timestamp": "2025-12-21 12:11:11",
+        "train_size": 40000,
+        "training_time_sec": 32.15562105178833
+      },
+      {
+        "attacks_detected": 0,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 21.84,
+          "mean": 6.96,
+          "min": 3.16,
+          "total_ms": 1392.92
+        },
+        "language": "python",
+        "model": "mlp",
+        "port": 5002,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:10:45"
+      },
+      {
+        "attacks_detected": 0,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 21.84,
+          "mean": 6.96,
+          "min": 3.16,
+          "total_ms": 1392.92
+        },
+        "language": "python",
+        "model": "mlp",
+        "port": 5002,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:10:45"
+      }
+    ],
+    "rf": [
+      {
+        "data_path": "../data/NF-UNSW-NB15-v2.csv",
+        "language": "python",
+        "metrics": {
+          "accuracy": 0.9999,
+          "f1_macro": 0.9993466098295625,
+          "f1_weighted": 0.9999000601314975,
+          "precision_macro": 0.9987468671679198,
+          "precision_weighted": 0.9999002506265664,
+          "recall_macro": 0.9999479275151011,
+          "recall_weighted": 0.9999,
+          "roc_auc": 1.0
+        },
+        "model": "rf",
+        "sample_size_used": 50000,
+        "test_size": 10000,
+        "timestamp": "2025-12-21 12:07:30",
+        "train_size": 40000,
+        "training_time_sec": 0.991222620010376
+      },
+      {
+        "attacks_detected": 101,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 158.45,
+          "mean": 98.7,
+          "min": 54.42,
+          "total_ms": 10758.32
+        },
+        "language": "python",
+        "model": "rf",
+        "port": 5000,
+        "requests_total": 109,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:05:50"
+      },
+      {
+        "attacks_detected": 101,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 158.45,
+          "mean": 98.7,
+          "min": 54.42,
+          "total_ms": 10758.32
+        },
+        "language": "python",
+        "model": "rf",
+        "port": 5000,
+        "requests_total": 109,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:05:50"
+      },
+      {
+        "attacks_detected": 26,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 124.16,
+          "mean": 101.66,
+          "min": 53.84,
+          "total_ms": 2846.55
+        },
+        "language": "python",
+        "model": "rf",
+        "port": 5000,
+        "requests_total": 28,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:06:42"
+      },
+      {
+        "attacks_detected": 26,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 124.16,
+          "mean": 101.66,
+          "min": 53.84,
+          "total_ms": 2846.55
+        },
+        "language": "python",
+        "model": "rf",
+        "port": 5000,
+        "requests_total": 28,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:06:42"
+      },
+      {
+        "attacks_detected": 102,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 194.74,
+          "mean": 98.52,
+          "min": 59.58,
+          "total_ms": 10837.31
+        },
+        "language": "python",
+        "model": "rf",
+        "port": 5001,
+        "requests_total": 110,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:07:26"
+      },
+      {
+        "attacks_detected": 102,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 194.74,
+          "mean": 98.52,
+          "min": 59.58,
+          "total_ms": 10837.31
+        },
+        "language": "python",
+        "model": "rf",
+        "port": 5001,
+        "requests_total": 110,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:07:26"
+      },
+      {
+        "attacks_detected": 186,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 130.22,
+          "mean": 88.46,
+          "min": 53.86,
+          "total_ms": 17691.73
+        },
+        "language": "python",
+        "model": "rf",
+        "port": 5000,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:10:44"
+      },
+      {
+        "attacks_detected": 186,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 130.22,
+          "mean": 88.46,
+          "min": 53.86,
+          "total_ms": 17691.73
+        },
+        "language": "python",
+        "model": "rf",
+        "port": 5000,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:10:44"
+      },
+      {
+        "attacks_detected": 186,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 163.56,
+          "mean": 84.14,
+          "min": 53.8,
+          "total_ms": 16827.19
+        },
+        "language": "python",
+        "model": "rf",
+        "port": 5000,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:22:06"
+      },
+      {
+        "attacks_detected": 186,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 163.56,
+          "mean": 84.14,
+          "min": 53.8,
+          "total_ms": 16827.19
+        },
+        "language": "python",
+        "model": "rf",
+        "port": 5000,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:22:06"
+      }
+    ],
+    "svm": [
+      {
+        "data_path": "../data/NF-UNSW-NB15-v2.csv",
+        "language": "python",
+        "metrics": {
+          "accuracy": 0.9988,
+          "f1_macro": 0.9921498766483952,
+          "f1_weighted": 0.9988,
+          "precision_macro": 0.9921498766483952,
+          "precision_weighted": 0.9988,
+          "recall_macro": 0.9921498766483952,
+          "recall_weighted": 0.9988,
+          "roc_auc": 0.9999563009800094
+        },
+        "model": "svm",
+        "sample_size_used": 50000,
+        "test_size": 10000,
+        "timestamp": "2025-12-21 12:10:13",
+        "train_size": 40000,
+        "training_time_sec": 45.96379828453064
+      },
+      {
+        "attacks_detected": 15,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 16.21,
+          "mean": 7.86,
+          "min": 3.98,
+          "total_ms": 1571.19
+        },
+        "language": "python",
+        "model": "svm",
+        "port": 5001,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:10:44"
+      },
+      {
+        "attacks_detected": 15,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 16.21,
+          "mean": 7.86,
+          "min": 3.98,
+          "total_ms": 1571.19
+        },
+        "language": "python",
+        "model": "svm",
+        "port": 5001,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:10:44"
+      }
+    ],
+    "xgb": [
+      {
+        "data_path": "../data/NF-UNSW-NB15-v2.csv",
+        "language": "python",
+        "metrics": {
+          "accuracy": 1.0,
+          "f1_macro": 1.0,
+          "f1_weighted": 1.0,
+          "precision_macro": 1.0,
+          "precision_weighted": 1.0,
+          "recall_macro": 1.0,
+          "recall_weighted": 1.0,
+          "roc_auc": 1.0
+        },
+        "model": "xgb",
+        "sample_size_used": 50000,
+        "test_size": 10000,
+        "timestamp": "2025-12-21 12:08:13",
+        "train_size": 40000,
+        "training_time_sec": 1.013486623764038
+      },
+      {
+        "attacks_detected": 200,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 20.06,
+          "mean": 9.67,
+          "min": 5.61,
+          "total_ms": 1934.5
+        },
+        "language": "python",
+        "model": "xgb",
+        "port": 5004,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:10:47"
+      },
+      {
+        "attacks_detected": 200,
+        "host": "127.0.0.1",
+        "inference_time_ms": {
+          "max": 20.06,
+          "mean": 9.67,
+          "min": 5.61,
+          "total_ms": 1934.5
+        },
+        "language": "python",
+        "model": "xgb",
+        "port": 5004,
+        "requests_total": 200,
+        "stage": "inference",
+        "timestamp": "2025-12-21 15:10:47"
+      }
+    ]
+  }
+}

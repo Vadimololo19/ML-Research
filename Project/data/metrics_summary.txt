@@ -1,0 +1,6 @@
+=== Сводка метрик (обучение, python) ===
+lgbm: acc=1.0000, f1_macro=1.0000, time=0.7s
+mlp: acc=0.9993, f1_macro=0.9954, time=32.2s
+rf: acc=0.9999, f1_macro=0.9993, time=1.0s
+svm: acc=0.9988, f1_macro=0.9921, time=46.0s
+xgb: acc=1.0000, f1_macro=1.0000, time=1.0s
