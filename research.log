@@ -1,0 +1,1545 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2026.2.6)  6 FEB 2026 14:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**research.tex
+(./research.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
+\g__graphics_track_int=\count189
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count190
+\g__pdf_backend_annotation_int=\count191
+\g__pdf_backend_link_int=\count192
+))
+Package: xparse 2023-02-02 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count193
+\l__fontspec_language_int=\count194
+\l__fontspec_strnum_int=\count195
+\l__fontspec_tmp_int=\count196
+\l__fontspec_tmpa_int=\count197
+\l__fontspec_tmpb_int=\count198
+\l__fontspec_tmpc_int=\count199
+\l__fontspec_em_int=\count266
+\l__fontspec_emdef_int=\count267
+\l__fontspec_strong_int=\count268
+\l__fontspec_strongdef_int=\count269
+\l__fontspec_tmpa_dim=\dimen141
+\l__fontspec_tmpb_dim=\dimen142
+\l__fontspec_tmpc_dim=\dimen143
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2023/02/13 3.86 The Babel package
+\babel@savecnt=\count270
+\U@D=\dimen144
+\l@unhyphenated=\language86
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count271
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
+Package babel Info: Importing font and identification data for russian
+(babel)             from babel-ru.ini. Reported on input line 11.
+)
+
+Package fontspec Info: Font family 'NotoSans(0)' created for font 'Noto Sans'
+(fontspec)             with options [Ligatures={TeX},Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto
+(fontspec)             Sans/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Noto
+(fontspec)             Sans/OT:script=latn;language=dflt;+smcp;mapping=tex-text
+;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto
+(fontspec)             Sans/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Noto
+(fontspec)             Sans/B/OT:script=latn;language=dflt;+smcp;mapping=tex-te
+xt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Noto
+(fontspec)             Sans/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Noto
+(fontspec)             Sans/I/OT:script=latn;language=dflt;+smcp;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto
+(fontspec)             Sans/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Noto
+(fontspec)             Sans/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen145
+\Gm@wd@mp=\dimen146
+\Gm@odd@mp=\dimen147
+\Gm@even@mp=\dimen148
+\Gm@layoutwidth=\dimen149
+\Gm@layoutheight=\dimen150
+\Gm@layouthoffset=\dimen151
+\Gm@layoutvoffset=\dimen152
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen155
+\captionmargin=\dimen156
+\caption@leftmargin=\dimen157
+\caption@rightmargin=\dimen158
+\caption@width=\dimen159
+\caption@indent=\dimen160
+\caption@parindent=\dimen161
+\caption@hangindent=\dimen162
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count275
+\c@continuedfloat=\count276
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen163
+\lightrulewidth=\dimen164
+\cmidrulewidth=\dimen165
+\belowrulesep=\dimen166
+\belowbottomsep=\dimen167
+\aboverulesep=\dimen168
+\abovetopsep=\dimen169
+\cmidrulesep=\dimen170
+\cmidrulekern=\dimen171
+\defaultaddspace=\dimen172
+\@cmidla=\count277
+\@cmidlb=\count278
+\@aboverulesep=\dimen173
+\@belowrulesep=\dimen174
+\@thisruleclass=\count279
+\@lastruleclass=\count280
+\@thisrulewidth=\dimen175
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip50
+\multirow@cntb=\count281
+\multirow@dima=\skip51
+\bigstrutjot=\dimen176
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen177
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count282
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count283
+\leftroot@=\count284
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count285
+\DOTSCASE@=\count286
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen179
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count287
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count288
+\dotsspace@=\muskip16
+\c@parentequation=\count289
+\dspbrk@lvl=\count290
+\tag@help=\toks19
+\row@=\count291
+\column@=\count292
+\maxfields@=\count293
+\andhelp@=\toks20
+\eqnshift@=\dimen180
+\alignsep@=\dimen181
+\tagshift@=\dimen182
+\tagwidth@=\dimen183
+\totwidth@=\dimen184
+\lineht@=\dimen185
+\@envbody=\toks21
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box54
+\beforetitleunit=\skip55
+\aftertitleunit=\skip56
+\ttl@plus=\dimen186
+\ttl@minus=\dimen187
+\ttl@toksa=\toks23
+\titlewidth=\dimen188
+\titlewidthlast=\dimen189
+\titlewidthfirst=\dimen190
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count294
+\lst@gtempboxa=\box55
+\lst@token=\toks24
+\lst@length=\count295
+\lst@currlwidth=\dimen191
+\lst@column=\count296
+\lst@pos=\count297
+\lst@lostspace=\dimen192
+\lst@width=\dimen193
+\lst@newlines=\count298
+\lst@lineno=\count299
+\lst@maxwidth=\dimen194
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count300
+\lst@skipnumbers=\count301
+\lst@framebox=\box56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count302
+)
+\@linkdim=\dimen195
+\Hy@linkcounter=\count303
+\Hy@pagecounter=\count304
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count305
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 3164.
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count306
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen196
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count307
+\Field@Width=\dimen197
+\Fld@charsize=\dimen198
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count308
+\c@Item=\count309
+\c@Hfootnote=\count310
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2023-02-07 v7.00v Hyperref driver for XeTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box57
+\c@Hy@AnnotLevel=\count311
+\HyField@AnnotCount=\count312
+\Fld@listcount=\count313
+\c@bookmark@seq@number=\count314
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip58
+\LTright=\skip59
+\LTpre=\skip60
+\LTpost=\skip61
+\LTchunksize=\count315
+\LTcapwidth=\dimen199
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@gbox=\box62
+\LT@cols=\count316
+\LT@rows=\count317
+\c@LT@tables=\count318
+\c@LT@chunks=\count319
+\LT@p@ftn=\toks25
+)
+No file research.aux.
+\openout1 = `research.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+0.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 40.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 40.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 40.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 40.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 40.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 40.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 40.
+LaTeX Font Info:    Redeclaring math accent \check on input line 40.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 40.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 40.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 40.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 40.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/NotoSans(0)/m/n on input line 40.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSans(0)/m/n on input line 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/NotoSans(0)/m/n --> TU/NotoSans(0)/m/n on input line
+ 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/NotoSans(0)/m/it on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/NotoSans(0)/b/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 40.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/NotoSans(0)/m/n --> TU/NotoSans(0)/b/n on input line
+ 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/NotoSans(0)/b/it on input line 40.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 40.
+LaTeX Info: Redefining \th on input line 40.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 469.47049pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count320
+Package hyperref Info: Link coloring OFF on input line 40.
+\@outlinefile=\write3
+\openout3 = `research.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+Overfull \hbox (5.87373pt too wide) in paragraph at lines 57--58
+\TU/NotoSans(0)/m/n/12 бенно востребованы решения, способные работать в реально
+м времени: Network
+ []
+
+[1
+
+]
+Overfull \hbox (15.35965pt too wide) in paragraph at lines 66--67
+\TU/NotoSans(0)/m/n/12 признаков, обработка пропусков, балансировка классов — р
+еализованы иден-
+ []
+
+
+Overfull \hbox (3.99269pt too wide) in paragraph at lines 68--69
+[]\TU/NotoSans(0)/b/n/12 Одинаковый набор моделей\TU/NotoSans(0)/m/n/12 : В фок
+усе — три модели, допускающие native-
+ []
+
+[2]
+Overfull \hbox (7.74551pt too wide) in paragraph at lines 114--115
+[]\TU/lmtt/m/n/12 POST /predict \TU/NotoSans(0)/m/n/12 — принимает JSON \TU/lmt
+t/m/n/12 {"features": {...}}\TU/NotoSans(0)/m/n/12 , возвращает пред-
+ []
+
+
+Overfull \hbox (1.51366pt too wide) in paragraph at lines 115--116
+[]\TU/lmtt/m/n/12 GET /health \TU/NotoSans(0)/m/n/12 — отдаёт статистику: колич
+ество запросов, средний latency,
+ []
+
+[3]
+Overfull \hbox (4.9346pt too wide) in paragraph at lines 141--142
+[]\TU/NotoSans(0)/m/n/12 Эта архитектура позволила провести «чистый» эксперимен
+т: разница в про-
+ []
+
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 150.
+
+Overfull \hbox (38.90494pt too wide) in paragraph at lines 150--151
+\TU/NotoSans(0)/m/n/12 HTTPS-сессии, DNS-запросы, FTP-логины. Пример признаков:
+ \TU/lmtt/m/n/12 L4_DST_PORT=443\TU/NotoSans(0)/m/n/12 ,
+ []
+
+
+Overfull \hbox (7.5766pt too wide) in paragraph at lines 151--152
+[]\TU/NotoSans(0)/b/n/12 Атакующие (\TU/lmtt/b/n/12 payloads/attack.json\TU/Not
+oSans(0)/b/n/12 )\TU/NotoSans(0)/m/n/12 : Содержат сигнатуры реальных атак
+ []
+
+
+Overfull \hbox (1.39363pt too wide) in paragraph at lines 153--154
+[]\TU/NotoSans(0)/b/n/12 SYN flood\TU/NotoSans(0)/m/n/12 : \TU/lmtt/m/n/12 TCP_
+FLAGS=2\TU/NotoSans(0)/m/n/12 , \TU/lmtt/m/n/12 IN_PKTS=1000\TU/NotoSans(0)/m/n
+/12 , \TU/lmtt/m/n/12 FLOW_DURATION_MILLISECONDS=0\TU/NotoSans(0)/m/n/12 . 
+ []
+
+[4]
+Overfull \hbox (14.48065pt too wide) in paragraph at lines 161--162
+[]\TU/NotoSans(0)/b/n/12 Собирают метрики\TU/NotoSans(0)/m/n/12 : Все результат
+ы сохраняются в \TU/lmtt/m/n/12 ../data/metrics_test.json
+ []
+
+
+Overfull \hbox (19.80748pt too wide) in paragraph at lines 164--165
+[]\TU/NotoSans(0)/m/n/12 Такой подход делает тестирование максимально приближен
+ным к production-
+ []
+
+
+LaTeX Warning: Reference `tab:quality' on page 5 undefined on input line 174.
+
+
+LaTeX Warning: Reference `fig:train_time' on page 5 undefined on input line 198
+.
+
+
+Overfull \hbox (17.31352pt too wide) in paragraph at lines 200--201
+[]\TU/NotoSans(0)/m/n/12 Python-версии используют высокооптимизированные библио
+теки (scikit-learn,
+ []
+
+
+Overfull \hbox (6.45964pt too wide) in paragraph at lines 201--202
+[]\TU/NotoSans(0)/m/n/12 C++-реализации — учебные, без параллелизма и оптимизац
+ий, поэтому мед-
+ []
+
+[5]
+File: Project/plots/cpp_vs_python//training_time_sec_cpp_vs_python.png Graphic 
+file (type bmp)
+<Project/plots/cpp_vs_python//training_time_sec_cpp_vs_python.png>
+
+Overfull \hbox (22.19576pt too wide) in paragraph at lines 213--214
+\TU/NotoSans(0)/m/n/12 нием безопасного и атакующего трафика. Результаты — в \T
+U/lmtt/m/n/12 ../data/metrics_test.json\TU/NotoSans(0)/m/n/12 . 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Project/plots/cpp_vs_python/tests//latency_ms_mean_test.png Graphic file 
+(type bmp)
+<Project/plots/cpp_vs_python/tests//latency_ms_mean_test.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Project/plots/cpp_vs_python/tests//latency_ms_p90_test.png Graphic file (
+type bmp)
+<Project/plots/cpp_vs_python/tests//latency_ms_p90_test.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (13.96161pt too wide) in paragraph at lines 259--267
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6]
+Overfull \hbox (7.65353pt too wide) in paragraph at lines 284--285
+[]\TU/NotoSans(0)/m/n/12 При пиковой нагрузке Python-сервисы чаще демонстрируют
+ «хвосты» latency
+ []
+
+[7]
+Overfull \hbox (19.17976pt too wide) in paragraph at lines 292--293
+\TU/NotoSans(0)/m/n/12 сказуемостью эксплуатации. \TU/NotoSans(0)/b/n/12 C++-ве
+рсии можно рассматривать только как proof-
+ []
+
+[8]
+Overfull \hbox (4.52956pt too wide) in paragraph at lines 307--308
+[]\TU/NotoSans(0)/m/n/12 Внедрите единый формат метрик и метаданных (как \TU/lm
+tt/m/n/12 metrics.json\TU/NotoSans(0)/m/n/12 ) для сквоз-
+ []
+
+
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 321--321
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 326--326
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+[]|\TU/NotoSans(0)/m/n/12 Machine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+\TU/NotoSans(0)/m/n/12 Learning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+\TU/NotoSans(0)/m/n/12 (машинное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
+[]|\TU/NotoSans(0)/m/n/12 Inference /
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 332--333
+[]|\TU/NotoSans(0)/m/n/12 Процесс применения обученной мо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\TU/NotoSans(0)/m/n/12 предсказаний. Противоположность
+ []
+
+
+Overfull \hbox (8.88412pt too wide) in paragraph at lines 334--334
+[]|\TU/NotoSans(0)/m/n/12 Preprocessing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]|\TU/NotoSans(0)/m/n/12 Feature /
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 336--337
+[]|\TU/NotoSans(0)/m/n/12 Количественная или категориальная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+\TU/NotoSans(0)/m/n/12 характеристика объекта, используе-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+[]|\TU/NotoSans(0)/m/n/12 One-hot
+ []
+
+Missing character: There is no → (U+2192) in font Noto Sans Regular/OT:script=l
+atn;language=dflt;mapping=tex-text;!
+Missing character: There is no → (U+2192) in font Noto Sans Regular/OT:script=l
+atn;language=dflt;mapping=tex-text;!
+
+Underfull \hbox (badness 4096) in paragraph at lines 338--339
+[]|\TU/NotoSans(0)/m/n/12 Метод преобразования категориаль-
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 338--339
+\TU/NotoSans(0)/m/n/12 ных признаков в бинарные векторы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+[]|\TU/NotoSans(0)/m/n/12 Метрика качества: доля правильно
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+[]|\TU/NotoSans(0)/m/n/12 Гармоническое среднее точности
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]|\TU/NotoSans(0)/m/n/12 Class
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]|\TU/NotoSans(0)/m/n/12 Балансировка
+ []
+
+[9]
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 352--352
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 357--357
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+[]|\TU/NotoSans(0)/m/n/12 Случайный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
+\TU/NotoSans(0)/m/n/12 Machine (ме-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
+\TU/NotoSans(0)/m/n/12 тод опорных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--365
+[]|\TU/NotoSans(0)/m/n/12 Multi-Layer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--365
+\TU/NotoSans(0)/m/n/12 Perceptron
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--365
+\TU/NotoSans(0)/m/n/12 (многослой-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--365
+\TU/NotoSans(0)/m/n/12 ный перцеп-
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 365--366
+[]|\TU/NotoSans(0)/m/n/12 Простейшая архитектура нейронной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
+[]|\TU/NotoSans(0)/m/n/12 eXtreme
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
+\TU/NotoSans(0)/m/n/12 Gradient
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 369--369
+[]|\TU/NotoSans(0)/m/n/12 Light Gradient
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--369
+\TU/NotoSans(0)/m/n/12 Boosting
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 369--370
+[]|\TU/NotoSans(0)/m/n/12 Альтернатива XGBoost с фокусом на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--371
+[]|\TU/NotoSans(0)/m/n/12 Open Neural
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--371
+\TU/NotoSans(0)/m/n/12 Network
+ []
+
+Missing character: There is no → (U+2192) in font Noto Sans Regular/OT:script=l
+atn;language=dflt;mapping=tex-text;!
+Missing character: There is no → (U+2192) in font Noto Sans Regular/OT:script=l
+atn;language=dflt;mapping=tex-text;!
+
+Underfull \hbox (badness 1194) in paragraph at lines 371--372
+[]|\TU/NotoSans(0)/m/n/12 Открытый формат сериализации мо-
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 371--372
+\TU/NotoSans(0)/m/n/12 делей ИИ, позволяющий переносить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--373
+[]|\TU/NotoSans(0)/m/n/12 ONNX
+ []
+
+[10]
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 381--381
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 386--386
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--390
+[]|\TU/NotoSans(0)/m/n/12 Network
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--390
+\TU/NotoSans(0)/m/n/12 Intrusion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--390
+\TU/NotoSans(0)/m/n/12 Detection
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 390--390
+\TU/NotoSans(0)/m/n/12 ма обнаруже-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--390
+\TU/NotoSans(0)/m/n/12 ния сетевых
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 394--395
+\TU/NotoSans(0)/m/n/12 рукопожатия, исчерпывающая ресур-
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 396--397
+[]|\TU/NotoSans(0)/m/n/12 Атака типа DDoS: отправка большо-
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 396--397
+\TU/NotoSans(0)/m/n/12 порты, вызывающая обработку оши-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--398
+[]|\TU/NotoSans(0)/m/n/12 Сканирование
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 398--399
+[]|\TU/NotoSans(0)/m/n/12 Разведывательная техника: последо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
+[]|\TU/NotoSans(0)/m/n/12 Zero-day
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 400--400
+[]|\TU/NotoSans(0)/m/n/12 Атака нулево-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--402
+[]|\TU/NotoSans(0)/m/n/12 Anomaly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--402
+[]|\TU/NotoSans(0)/m/n/12 Обнаружение
+ []
+
+[11]
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 410--410
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 415--415
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+[]|\TU/NotoSans(0)/m/n/12 Transmission
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+\TU/NotoSans(0)/m/n/12 Control
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
+[]|\TU/NotoSans(0)/m/n/12 Надёжный протокол транспортного
+ []
+
+
+Underfull \hbox (badness 6125) in paragraph at lines 421--422
+[]|\TU/NotoSans(0)/m/n/12 Ненадёжный протокол транспортно-
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 421--422
+\TU/NotoSans(0)/m/n/12 ния, используемый для низколатент-
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 423--423
+[]|\TU/NotoSans(0)/m/n/12 Domain Name
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
+[]|\TU/NotoSans(0)/m/n/12 Система преобразования домен-
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 423--424
+\TU/NotoSans(0)/m/n/12 ных имён (например, \TU/lmtt/m/n/12 example.com\TU/NotoS
+ans(0)/m/n/12 ) в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+[]|\TU/NotoSans(0)/m/n/12 Hypertext
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+\TU/NotoSans(0)/m/n/12 Transfer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+\TU/NotoSans(0)/m/n/12 Protocol
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
+[]|\TU/NotoSans(0)/m/n/12 File Transfer
+ []
+
+
+Overfull \hbox (5.46413pt too wide) in paragraph at lines 429--429
+[]|\TU/NotoSans(0)/m/n/12 L4_DST_PORT| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--429
+[]|\TU/NotoSans(0)/m/n/12 Layer 4
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--429
+\TU/NotoSans(0)/m/n/12 Destination
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+[]|\TU/NotoSans(0)/m/n/12 Порт назначения на транспортном
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 431--432
+[]|\TU/NotoSans(0)/m/n/12 Битовые флаги TCP-заголовка (SYN,
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 433--434
+[]|\TU/NotoSans(0)/m/n/12 Поле IP-заголовка, ограничивающее
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 435--436
+\TU/NotoSans(0)/m/n/12 теристиками (источник, назначение,
+ []
+
+[12]
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 443--443
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 448--448
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 452--453
+[]|\TU/NotoSans(0)/m/n/12 Время от получения запроса до от-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--454
+[]|\TU/NotoSans(0)/m/n/12 Пропускная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+[]|\TU/NotoSans(0)/m/n/12 Количество запросов, обрабатывае-
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 454--455
+\TU/NotoSans(0)/m/n/12 мых системой за единицу времени
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+[]|\TU/NotoSans(0)/m/n/12 Requests Per
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 458--458
+[]|\TU/NotoSans(0)/m/n/12 p50 / p90 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+[]|\TU/NotoSans(0)/m/n/12 Percentile
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
+[]|\TU/NotoSans(0)/m/n/12 Перцентили распределения latency:
+ []
+
+
+Underfull \hbox (badness 6808) in paragraph at lines 458--459
+\TU/NotoSans(0)/m/n/12 p99 — время отклика, которое не
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 458--459
+\TU/NotoSans(0)/m/n/12 превышают 99% запросов («хвосты»
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--460
+[]|\TU/NotoSans(0)/m/n/12 Service Level
+ []
+
+
+Underfull \hbox (badness 8189) in paragraph at lines 460--461
+[]|\TU/NotoSans(0)/m/n/12 Договорённость об уровне сервиса
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 460--461
+\TU/NotoSans(0)/m/n/12 (например, «99.9% запросов должны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--462
+[]|\TU/NotoSans(0)/m/n/12 Garbage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
+[]|\TU/NotoSans(0)/m/n/12 Автоматическое управление памя-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--464
+[]|\TU/NotoSans(0)/m/n/12 Пауза сбор-
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 464--465
+[]|\TU/NotoSans(0)/m/n/12 Временный простой приложения во
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--466
+[]|\TU/NotoSans(0)/m/n/12 Накладные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--468
+[]|\TU/NotoSans(0)/m/n/12 Memory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--468
+[]|\TU/NotoSans(0)/m/n/12 Объём по-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--468
+\TU/NotoSans(0)/m/n/12 требляемой
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--470
+[]|\TU/NotoSans(0)/m/n/12 Сетевой путь
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--470
+\TU/NotoSans(0)/m/n/12 передачи
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--472
+[]|\TU/NotoSans(0)/m/n/12 Native
+ []
+
+
+Overfull \hbox (19.00012pt too wide) in paragraph at lines 472--472
+\TU/NotoSans(0)/m/n/12 implementation| 
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 472--473
+[]|\TU/NotoSans(0)/m/n/12 Реализация алгоритма напрямую на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
+\TU/NotoSans(0)/m/n/12 целевом языке без использования
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 474--474
+[]|\TU/NotoSans(0)/m/n/12 Среда выпол-
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 474--475
+[]|\TU/NotoSans(0)/m/n/12 Программная платформа, в которой
+ []
+
+
+Overfull \hbox (8.90175pt too wide) in paragraph at lines 476--476
+[]|\TU/NotoSans(0)/m/n/12 Промышленная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--478
+[]|\TU/NotoSans(0)/m/n/12 Proof-of-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--478
+\TU/NotoSans(0)/m/n/12 concept
+ []
+
+
+Overfull \hbox (6.77774pt too wide) in paragraph at lines 478--478
+[]|\TU/NotoSans(0)/m/n/12 Доказательство
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 478--479
+\TU/NotoSans(0)/m/n/12 способность идеи, но не предназна-
+ []
+
+[13]
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 486--486
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 491--491
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+[]|\TU/NotoSans(0)/m/n/12 Популярная Python-библиотека для
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 495--496
+\TU/NotoSans(0)/m/n/12 машинного обучения с реализацией
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+\TU/NotoSans(0)/m/n/12 классических алгоритмов (RF, SVM,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
+[]|\TU/NotoSans(0)/m/n/12 Высокопроизводительный C++ веб-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+[]|\TU/NotoSans(0)/m/n/12 POSIX
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]|\TU/NotoSans(0)/m/n/12 JavaScript
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\TU/NotoSans(0)/m/n/12 Object
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 503--504
+\TU/NotoSans(0)/m/n/12 ными, используемый для передачи
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]|\TU/NotoSans(0)/m/n/12 Comma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+\TU/NotoSans(0)/m/n/12 Separated
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 505--506
+[]|\TU/NotoSans(0)/m/n/12 Текстовый формат хранения таблич-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--507
+[]|\TU/NotoSans(0)/m/n/12 NF-UNSW-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--507
+[]|\TU/NotoSans(0)/m/n/12 Network Flow
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 507--508
+[]|\TU/NotoSans(0)/m/n/12 Открытый датасет сетевого трафика
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
+[]|\TU/NotoSans(0)/m/n/12 Полезная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[]|\TU/NotoSans(0)/m/n/12 Точка входа
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 511--512
+[]|\TU/NotoSans(0)/m/n/12 URL-адрес и метод HTTP (например,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]|\TU/NotoSans(0)/m/n/12 Health
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]|\TU/NotoSans(0)/m/n/12 Проверка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+\TU/NotoSans(0)/m/n/12 работоспособ-
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 513--514
+[]|\TU/NotoSans(0)/m/n/12 Эндпоинт (обычно \TU/lmtt/m/n/12 GET /health\TU/NotoS
+ans(0)/m/n/12 ), воз-
+ []
+
+[14]
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 521--521
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Overfull \hbox (2.12175pt too wide) in paragraph at lines 526--526
+[]|\TU/NotoSans(0)/b/n/12 Расшифровка| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--532
+[]|\TU/NotoSans(0)/m/n/12 High-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--532
+[]|\TU/NotoSans(0)/m/n/12 Высокая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--532
+\TU/NotoSans(0)/m/n/12 пропускная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+[]|\TU/NotoSans(0)/m/n/12 Система, способная обрабатывать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
+[]|\TU/NotoSans(0)/m/n/12 Низкая за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--536
+[]|\TU/NotoSans(0)/m/n/12 Real-time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--536
+[]|\TU/NotoSans(0)/m/n/12 Обработка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--536
+\TU/NotoSans(0)/m/n/12 в реальном
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+[]|\TU/NotoSans(0)/m/n/12 Offline
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+[]|\TU/NotoSans(0)/m/n/12 Офлайн-
+ []
+
+
+Overfull \hbox (11.23611pt too wide) in paragraph at lines 542--542
+[]|\TU/NotoSans(0)/m/n/12 Benchmarking| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--544
+[]|\TU/NotoSans(0)/m/n/12 Median
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--544
+[]|\TU/NotoSans(0)/m/n/12 Медианная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
+[]|\TU/NotoSans(0)/m/n/12 Замена пропущенных значений в
+ []
+
+[15] [16] (./research.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `research.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `research.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  BFF7B57BE9D6FD815584383C83632FA4;3439.
+ ) 
+Here is how much of TeX's memory you used:
+ 15835 strings out of 476689
+ 307332 string characters out of 5806614
+ 1868018 words of memory out of 6000000
+ 35881 multiletter control sequences out of 15000+600000
+ 517613 words of font info for 74 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 72i,8n,85p,712b,1027s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on research.pdf (16 pages).
